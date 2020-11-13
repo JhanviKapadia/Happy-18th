@@ -1,0 +1,53 @@
+#top-navbar
+	{
+		text-decoration: none;
+		background-color: transparent;
+		
+	}
+	body
+	{
+		background-color: black;
+		background-image: url("bdayback2.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	.hbd
+	{
+		font-family: Lobster , sans-serif;
+		color: white;
+		position: absolute;
+		height : 400px;
+		width: 300px;
+		font-size :100px;
+		margin-left : 50px;
+		margin-top: 100px;
+
+	}
+
+	.date
+	{
+		color: white;	
+		font-family: Lobster , sans-serif;
+		font-size: 30PX;
+		position: absolute;
+		margin-top: 545px;
+		margin-left: 375px;
+	}
+	.age
+	{
+		font-family: Lobster , sans-serif;
+		color: white;
+		position: relative;
+		font-size : 120px;
+
+	}
+	.farewellimage
+	{
+		border: solid 5px;
+		border-color: white;
+		position: absolute;
+		margin-left: 750px;
+		margin-top: 100px;
+		transform: rotate(5deg);
+	}
+

@@ -1,0 +1,35 @@
+.container
+{
+	
+	background-color: transparent;
+	margin-top: 50px;
+	
+}
+.carousel-item img
+{
+	border: dashed white 5px;
+	width: 500px;
+	height: 500px;
+	margin-left: 300px;
+
+}
+.bodyclass
+{
+	background-color: #14274e;
+}
+
+.title
+{
+	font-family: PT Sans Narrow, serif;
+	color: white;
+	font-size: 70px;
+	margin-top: 20px;
+	margin-left: 320px;
+}
+.lastline
+{
+	font-family: Lobster Two, serif;
+	color: white;
+	font-size: 30px;
+	margin-left: 700px;
+}
